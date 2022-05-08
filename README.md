@@ -2,9 +2,8 @@
 
 ![Banner](https://ipfs.io/ipfs/bafybeigc5uaemz3wke2x3cfwdhirkd6pt3zwkvnj7vbt5kd5ynvtnsnuzu/github%20banner-01.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrianHHough?color=15307B&label=Follow%20Me%20On%20Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=JoshCStein)
-[![LinkedIn Follow](https://img.shields.io/badge/<SUBJECT>-2.3k-<COLOR>.svg?color=15307B&label=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/joshcstein/)
-[![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-1.8k-<COLOR>.svg?color=15307B&label=Instagram&style=for-the-badge)](https://www.instagram.com/joshcstein/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JoshCStein?color=15307B&label=Follow%20Me%20On%20Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=JoshCStein)
+[![Instagram Follow](https://img.shields.io/badge/<SUBJECT>-1.3k-<COLOR>.svg?color=15307B&label=Instagram&style=for-the-badge)](https://www.instagram.com/joshcstein/)
 [![Repos Badge](https://badges.pufler.dev/repos/jcstein?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/all/jcstein?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
 
