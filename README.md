@@ -4,7 +4,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JoshCStein?style=social)
 ![Stars Badge](https://img.shields.io/github/stars/jcstein?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/jcstein?style=social)
+![GitHub followers](https://img.shields.io/github/followers/jcstein?style=social)
 ![YouTube Views](https://img.shields.io/youtube/channel/views/UC8oYXCuErUTYX0T_Rb7Vy1g?style=social)
 
 # 👋 Thanks for stopping by!
