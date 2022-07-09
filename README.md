@@ -2,9 +2,10 @@
 
 ![Banner](https://ipfs.io/ipfs/bafybeigc5uaemz3wke2x3cfwdhirkd6pt3zwkvnj7vbt5kd5ynvtnsnuzu/github%20banner-01.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JoshCStein?color=15307B&label=Follow%20Me%20On%20Twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=JoshCStein)
-[![Repos Badge](https://badges.pufler.dev/repos/jcstein?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/all/jcstein?color=CBA200&style=for-the-badge)](https://badges.pufler.dev)
+![Twitter Follow](https://img.shields.io/twitter/follow/JoshCStein?style=social)
+![Stars Badge](https://img.shields.io/github/stars/jcstein?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/jcstein?style=social)
+![YouTube Views](https://img.shields.io/youtube/channel/views/UC8oYXCuErUTYX0T_Rb7Vy1g?style=social)
 
 # 👋 Thanks for stopping by!
 
