@@ -2,7 +2,6 @@
 
 ![Banner](https://ipfs.io/ipfs/bafybeigc5uaemz3wke2x3cfwdhirkd6pt3zwkvnj7vbt5kd5ynvtnsnuzu/github%20banner-01.png)
 
-[![NPM](https://img.shields.io/npm/v/react-twitter-embed.svg)](https://www.npmjs.com/package/react-twitter-embed)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoshCStein?style=social)](https://twitter.com/intent/user?screen_name=JoshCStein)
 [![Stars Badge](https://img.shields.io/github/stars/jcstein?style=social)](https://github.com/jcstein?tab=repositories&q=&type=&language=&sort=stargazers)
 [![GitHub followers](https://img.shields.io/github/followers/jcstein?style=social)](https://github.com/jcstein?tab=followers)
