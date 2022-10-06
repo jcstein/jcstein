@@ -9,4 +9,6 @@
 
 # 👋 Thanks for stopping by!
 
-My name is [Josh](https://joshcs.lol) and I'm a Developer Relations Engineer with [Ankr](https://ankr.com), a decentralized Web3 infrastructure provider that operates an array of globally-distributed nodes serving 50+ blockchain networks. I am also an active member of [Developer DAO](https://developerdao.com), a tokenized community of Web3 builders. I graduated from Virginia Commonwealth University with a BSc in Business concentrating in Supply Chain Management and Analytics along with a minor of Mathematics. I began working with Ankr in February and am excited to see where Web3 takes the global community.
+My name is [Josh](https://joshcs.lol) and I'm a Solutions Engineer at [Celestia Labs](https://celestia.org). I am also an active member of [Developer DAO](https://developerdao.com), a tokenized community of Web3 builders. I graduated from Virginia Commonwealth University with a BSc in Business concentrating in Supply Chain Management and Analytics along with a minor of Mathematics.
+
+I'm previously a Developer Relations Engineer with [Ankr](https://ankr.com), a decentralized Web3 infrastructure provider that operates an array of globally-distributed nodes serving 50+ blockchain networks, and Teaching Assistant at [buildspace](https://buildspace.so).
