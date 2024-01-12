@@ -1,6 +1,6 @@
 ### gm ☀️
 
-![Banner](https://ipfs.io/ipfs/bafybeigc5uaemz3wke2x3cfwdhirkd6pt3zwkvnj7vbt5kd5ynvtnsnuzu/github%20banner-01.png)
+![IMG_0831](https://github.com/jcstein/jcstein/assets/46639943/5d8a8da3-fc66-4e5c-b210-80be82507aec)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoshCStein?style=social)](https://twitter.com/intent/user?screen_name=JoshCStein)
 [![Stars Badge](https://img.shields.io/github/stars/jcstein?style=social)](https://github.com/jcstein?tab=repositories&q=&type=&language=&sort=stargazers)
