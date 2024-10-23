@@ -9,7 +9,7 @@
  -->
 # 👋 Thanks for stopping by!
 
-My name is [Josh](https://joshcs.lol) and I'm a Solutions Engineer at [Celestia Labs](https://celestia.org). 
+My name is [Josh](https://joshcs.lol) and I'm a Developer Advocate at [Celestia Labs](https://celestia.org). 
 
 I am an active member of [Developer DAO](https://developerdao.com), a community of Web3 builders. I graduated from Virginia Commonwealth University with a BSc in Business concentrating in Supply Chain Management and Analytics along with a minor of Mathematics.
 
