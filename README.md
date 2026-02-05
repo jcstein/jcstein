@@ -14,5 +14,3 @@ My name is [Josh](https://joshcs.lol) and I'm a Developer Advocate at [Celestia 
 I am an active member of [Developer DAO](https://developerdao.com), a community of Web3 builders. I graduated from Virginia Commonwealth University with a BSc in Business concentrating in Supply Chain Management and Analytics along with a minor of Mathematics.
 
 I was previously a Developer Relations Engineer with [Ankr](https://ankr.com), a decentralized Web3 infrastructure provider, and a Teaching Assistant at [buildspace](https://buildspace.so).
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jcstein&show_icons=true&theme=gotham" alt="jcstein" />
