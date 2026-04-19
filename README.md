@@ -14,6 +14,6 @@ I graduated from Virginia Commonwealth University with a BSc in Business concent
 
 I was previously a Developer Relations Engineer with [Ankr](https://ankr.com), a decentralized Web3 infrastructure provider, and a Teaching Assistant at [buildspace](https://buildspace.so).
 
-I started tinkering in high school at Thomas Jefferson High School for Science and Technology in Virginia. My senior project was the telemetry for a converted ATV with ArduRover, an autonomous rover built with Arduino and C++. [Watch the demos](https://www.youtube.com/watch?v=gs0SzsodlBg) [and](https://www.youtube.com/watch?v=a9rH5DQArvY).
+I started tinkering in high school at Thomas Jefferson High School for Science and Technology in Virginia. My senior project was the telemetry for a converted ATV with ArduRover, an autonomous rover built with Arduino and C++. Watch the demos: <https://www.youtube.com/watch?v=gs0SzsodlBg> & <https://www.youtube.com/watch?v=a9rH5DQArvY>.
 
 I fell in love with building in my mid-20s and haven't stopped since. When I'm not working, you'll find me tinkering with side projects like home air quality automation, menu bar apps, or LoRa radios for emergency comms. I believe that play is how we stay curious. If I'm not playing with computers, I'm probably hiking, climbing, or reading.
