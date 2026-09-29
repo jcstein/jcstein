@@ -8,7 +8,7 @@
 
 # 👋 Thanks for stopping by!
 
-My name is [Josh](https://joshcs.lol) and I'm a Developer Advocate at [Celestia Labs](https://celestia.org).
+My name is [Josh](https://joshcs.lol) and I'm a Software Engineer at [Celestia Labs](https://celestia.org) (formerly Developer Advocate).
 
 I graduated from Virginia Commonwealth University with a BSc in Business concentrating in Supply Chain Management and Analytics and a minor of Mathematics. [Developer DAO](https://developerdao.com) and [buildspace](https://buildspace.so/) were two communities that helped me find my way into the computer science and blockchain world professionally.
 
